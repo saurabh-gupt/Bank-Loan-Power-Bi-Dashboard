@@ -105,7 +105,7 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 
 
 ## Expected Outcome 
-By implementing the above solution approach expects to achieve the following outcomes:
+By implementing the above solution expects to achieve the following outcomes:
    * Enhanced Data Analysis: The connection between the SQL database and Power BI enables real-time or near-real-time analysis of the sales trend. The solution provides users with the ability to explore and analyze data more efficiently, leading to better insights and understanding.
 
    * Improved Decision Making: The creation of the three dashboards (Summary, Overview and Details) equips users with a comprehensive view of the Bank Loan from different perspectives. 
