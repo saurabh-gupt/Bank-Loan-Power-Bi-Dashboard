@@ -1,4 +1,4 @@
-# Bank Loan Insight / Analysis using Ppower Bi and SQL
+# Bank Loan Insight / Analysis using Power Bi and SQL
 ### Bussiness Requirement / Problem Satement
 
 #### Total Loan Application :
